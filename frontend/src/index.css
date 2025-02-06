@@ -13,6 +13,7 @@ body {
   overscroll-behavior-y: contain;
   overflow: hidden;
   color: rgb(var(--text-color));
+  @apply bg-gray-900;
 }
 
 ::-webkit-scrollbar {
